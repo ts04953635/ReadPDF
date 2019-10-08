@@ -1,0 +1,32 @@
+﻿已經開始建置於 2016/6/2 上午 11:52:39。
+     1>節點 2 (build 目標) 上的專案 "D:\AFU\PDA_test\青山電廠\青山電廠\青山電廠.vcxproj"。
+     1>InitializeBuildStatus:
+         正在變更時間戳記 "Release\青山電廠.unsuccessfulbuild"。
+       GenerateTargetFrameworkMonikerAttribute:
+       將略過目標 "GenerateTargetFrameworkMonikerAttribute"，因為所有輸出檔對於其輸入檔而言都已更新。
+       ClCompile:
+         所有輸出都是最新的。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _UNICODE /D UNICODE /EHa /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Release\青山電廠.pch" /Fo"Release\\" /Fd"Release\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /FUInterop\Interop.AcroPDFLib.1.0.dll /FUInterop\AxInterop.AcroPDFLib.1.0.dll /analyze- /errorReport:prompt "青山電廠.cpp" /clr:nostdlib 
+         青山電廠.cpp
+         所有輸出都是最新的。
+       CoreResGen:
+         相對於資源的來源檔案，並沒有資源過期。將略過產生資源。
+       ResourceCompile:
+         所有輸出都是最新的。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\AFU\PDA_test\青山電廠\Release\青山電廠.exe" /INCREMENTAL:NO /NOLOGO /ASSEMBLYRESOURCE:"Release\青山電廠.Form1.resources" /MANIFEST /ManifestFile:"Release\青山電廠.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\AFU\PDA_test\青山電廠\Release\青山電廠.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Release\app.res
+         Release\AssemblyInfo.obj
+         Release\stdafx.obj
+         "Release\青山電廠.obj"
+         "Release\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         青山電廠.vcxproj -> D:\AFU\PDA_test\青山電廠\Release\青山電廠.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\AFU\PDA_test\青山電廠\Release\青山電廠.exe;#1" /manifest "Release\青山電廠.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在刪除檔案 "Release\青山電廠.unsuccessfulbuild"。
+         正在變更時間戳記 "Release\青山電廠.lastbuildstate"。
+     1>專案 "D:\AFU\PDA_test\青山電廠\青山電廠\青山電廠.vcxproj" (build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:00.53
